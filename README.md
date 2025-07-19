@@ -15,7 +15,7 @@ Gunakan library ini sebagai dependensi di proyekmu tanpa perlu source code.
 
 ### **Instalasi (via Git Submodule)**
 ```bash
-git submodule add -b https://github.com/dwi312/java-helper-lib.git lib/helper
+git submodule add -b main https://github.com/dwi312/java-helper-lib.git lib/helper
 
 ```
 
